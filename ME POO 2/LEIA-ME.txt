@@ -1,0 +1,24 @@
+////////////////////////////////
+# 							   #
+#     INFORMAÇÕES ME           #    
+#	NATHAN HENRIQUE B. FEITOZA #
+#		1171139648 			   #
+#			E 		       	   #
+# 		JOÃO BATISTA		   #
+# 							   #
+////////////////////////////////
+
+* Neste mini sistema de escola há
+	* Validação de data
+	* Validação de CPF
+	* Validação de Email
+	* E validações de tamanho de campo
+* Para utilizar
+	* Primeiro, cadastre um aluno ou um professor
+		* Não é possível cadastrar um curso sem antes ter cadastrado um professor
+	* Os níveis para salário do professor são 1, 2 e 3. Caso seja digitado um que não há, não será possível cadastrá-lo
+* O cálculo para custo do curso se dá da seguinte forma: Salário do professor somado com 18% de impostos e 20% de custos e 33% de lucro
+divido pela quantidade total de alunos
+* É permitido adicionar uma recepcionista
+
+PS: Utilizamos o mesmo arquivo que foi editado na prova, por isso adotamos os valores informados lá.		
